@@ -22,7 +22,7 @@ Install [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-i
 
 Once on the deployed link the user will be introduced to the main page and click on the Get Started button to begin taking notes. 
 
-![alt text](https://github.com/yalitzab/Professional-README-Generator/blob/main/RunProgramSnip.png "Run Program")
+![alt text](https://github.com/yalitzab/Note-Taker/blob/main/assets/Note_Taker%20Screenshot%20main.PNG "Note Taker Main Page")
 
 
 ---
